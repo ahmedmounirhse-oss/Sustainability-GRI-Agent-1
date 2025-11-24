@@ -3,3 +3,4 @@ numpy
 streamlit
 groq
 python-dotenv
+openpyxl
