@@ -1,6 +1,7 @@
-pandas
-numpy
 streamlit
+pandas
+openpyxl
 groq
 python-dotenv
-openpyxl
+reportlab
+matplotlib
