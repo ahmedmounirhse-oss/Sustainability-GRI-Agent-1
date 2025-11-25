@@ -5,3 +5,5 @@ groq
 python-dotenv
 reportlab
 matplotlib
+scikit-learn
+
